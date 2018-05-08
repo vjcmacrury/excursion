@@ -6,11 +6,6 @@ body {
 }
 
 h1 {
-  font-weight: 300;
-  font-size: 42px;
-}
-
-#discover {
   font-size: 50px;
 }
 
@@ -19,7 +14,12 @@ h2 {
   color: gray;
 }
 
-h3 {
+p {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.Link p {
   font-size: 16px;
   color: Aquamarine;
 }
