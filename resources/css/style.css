@@ -2,11 +2,16 @@ body {
   font-family: Verdana;
   text-align: center;
   font-weight: normal;
+  color: white;
 }
 
 h1 {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+#discover {
   font-size: 50px;
-  color: white;
 }
 
 h2 {
